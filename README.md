@@ -82,14 +82,3 @@ src/
 - **Loader**: Visual indicator during API calls
 - **Error Messages**: Validation and API error handling
 
-## Customization
-
-You can customize the styling by modifying the `App.css` file to match your preferred design.
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
